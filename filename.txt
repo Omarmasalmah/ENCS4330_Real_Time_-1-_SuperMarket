@@ -1,0 +1,13 @@
+Customers_Arrival_Max:3000
+Customers_Arrival_Min:500
+Cashiers_Number:8
+Cashiers_BehaviorMin:300
+Cashiers_BehaviorMax:2000
+ShoppingTimeMax:5
+ShoppingTimeMin:1
+ScanTimeMax:5000
+ScanTimeMin:1000
+MaxWaitTime:30
+MaxLeaveCashiers:3
+MaxCustomersLeave:5
+IncomeMax:50000

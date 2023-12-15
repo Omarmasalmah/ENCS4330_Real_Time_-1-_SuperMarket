@@ -1,0 +1,256 @@
+Apples,001,47,1.99
+Bananas,002,32,0.79
+Milk,003,15,2.49
+Bread,004,78,1.89
+Eggs,005,56,1.49
+Cheese,006,89,3.99
+Chicken,007,22,5.99
+Pasta,008,65,0.99
+Rice,009,43,2.29
+Tomatoes,010,34,1.29
+Toilet Paper,011,12,4.99
+Dish Soap,012,73,2.79
+Bathroom Cleaner,013,3,3.49
+Gummy Bears,014,91,0.99
+Chocolate Bars,015,45,1.49
+Potato Chips,016,67,2.99
+Cigarettes,017,100,6.49
+Shampoo,018,19,3.99
+Conditioner,019,24,3.99
+Toothpaste,020,54,2.29
+Toothbrush,021,62,1.49
+Laundry Detergent,022,38,4.99
+Bleach,023,25,2.49
+Garbage Bags,024,80,5.99
+Sponges,025,71,1.99
+Hand Sanitizer,026,5,3.49
+Paper Towels,027,88,2.79
+Cereal,028,57,3.29
+Coffee,029,29,6.99
+Tea Bags,030,64,2.99
+Frozen Pizza,031,10,4.99
+Ice Cream,032,17,3.49
+Peanut Butter,033,49,2.99
+Jelly,034,38,1.79
+Bottled Water,035,99,0.99
+Soda,036,51,1.49
+Lettuce,037,26,1.99
+Carrots,038,70,1.29
+Onions,039,58,0.99
+Potatoes,040,43,2.49
+Hand Soap,041,33,1.29
+Dishwasher Detergent,042,9,3.99
+Trash Bags,043,77,4.49
+Candy,044,87,0.69
+Dog Food,045,41,8.99
+Cat Food,046,33,7.99
+Candles,047,61,1.99
+Light Bulbs,048,24,2.29
+Aluminum Foil,049,17,1.99
+Ziploc Bags,050,36,2.49
+Ketchup,051,13,1.49
+Mustard,052,6,1.29
+Mayonnaise,053,12,2.49
+Salad Dressing,054,31,1.79
+Soy Sauce,055,42,1.99
+Canned Soup,056,58,1.29
+Canned Vegetables,057,79,0.99
+Canned Beans,058,88,1.09
+Canned Tuna,059,23,1.49
+Cereal Bars,060,37,2.39
+Peanuts,061,44,1.69
+Pasta Sauce,062,55,2.29
+Crackers,063,69,1.79
+Popcorn,064,38,1.49
+Olive Oil,065,29,4.99
+Vinegar,066,10,2.49
+Lemon Juice,067,19,1.29
+Hot Sauce,068,88,1.99
+BBQ Sauce,069,37,1.79
+Salsa,070,52,2.09
+Chips Ahoy Cookies,071,16,2.49
+Oreo Cookies,072,47,2.99
+Granola Bars,073,78,1.99
+Yogurt,074,29,0.89
+Cottage Cheese,075,36,2.49
+Frozen Vegetables,076,52,1.49
+Frozen Fruits,077,31,2.99
+Ice Cream Cones,078,5,1.79
+Pizza Rolls,079,21,3.29
+Ground Beef,080,63,4.99
+Pork Chops,081,37,6.49
+Chicken Thighs,082,18,5.99
+Salmon,083,72,7.99
+Tilapia,084,39,6.99
+Tuna Steaks,085,6,8.99
+Bacon,086,33,4.29
+Sausages,087,17,3.99
+Ham,088,46,5.49
+Turkey,089,8,6.99
+Ground Turkey,090,14,4.99
+Pepperoni,091,37,3.49
+Cheddar Cheese,092,26,4.29
+Swiss Cheese,093,7,4.99
+Provolone Cheese,094,10,5.49
+American Cheese,095,19,3.99
+Mozzarella Cheese,096,51,4.49
+Parmesan Cheese,097,18,3.99
+Cream Cheese,098,11,1.99
+Butter,099,30,2.29
+Margarine,100,22,1.79
+Frozen Waffles,101,35,2.49
+Pancake Mix,102,8,2.99
+Maple Syrup,103,59,3.49
+Pasta Salad,104,27,2.29
+Taco Shells,105,63,1.99
+Taco Seasoning,106,52,0.99
+Salsa,107,20,2.29
+Guacamole,108,36,3.99
+Sour Cream,109,12,1.79
+Soda,110,45,1.29
+Lemonade,111,34,2.49
+Iced Tea,112,19,2.99
+Orange Juice,113,43,2.79
+Apple Juice,114,14,1.99
+Cranberry Juice,115,61,2.29
+Grape Juice,116,27,2.49
+Energy Drinks,117,41,1.79
+Sports Drinks,118,58,1.49
+Beer,119,25,9.99
+Wine,120,31,12.99
+Vodka,121,9,19.99
+Rum,122,15,14.99
+Whiskey,123,11,24.99
+Tequila,124,22,29.99
+Cognac,125,7,39.99
+Brandy,126,14,22.99
+Gin,127,26,18.99
+White Wine,128,18,10.99
+Red Wine,129,23,10.99
+Champagne,130,5,29.99
+Cigars,131,50,5.99
+Cigarettes,132,200,5.49
+Lighters,133,30,0.99
+Charcoal,134,15,6.49
+Propane Tanks,135,10,9.99
+Grill Brush,136,20,1.99
+Gardening Gloves,137,10,2.49
+Flower Pots,138,20,0.99
+Plant Food,139,10,3.49
+Hose,140,8,4.99
+Sprinkler,141,5,7.99
+Garden Tools,142,12,5.99
+Insect Spray,143,10,2.99
+Sunscreen,144,15,4.49
+Beach Towel,145,8,6.99
+Beach Chair,146,10,12.99
+Swim Shorts,147,12,9.99
+Sunglasses,148,20,5.99
+Sun Hat,149,15,3.99
+Picnic Basket,150,5,14.99
+Bike Lock,151,10,7.99
+Bike Helmet,152,8,9.99
+Bike Pump,153,10,5.99
+Tennis Balls,154,24,2.99
+Badminton Set,155,8,14.99
+Soccer Ball,156,10,9.99
+Basketball,157,10,12.99
+Baseball Glove,158,10,8.99
+Baseball Bat,159,8,11.99
+Frisbee,160,12,4.99
+Jump Rope,161,15,2.49
+Water Balloons,162,100,3.99
+Swimming Goggles,163,10,7.99
+Pool Noodles,164,20,1.99
+Swim Floaties,165,12,4.49
+Beach Umbrella,166,8,9.99
+Beach Ball,167,15,3.99
+Boogie Board,168,10,19.99
+Surfboard,169,5,129.99
+Skateboard,170,8,39.99
+Rollerblades,171,10,49.99
+Scooter,172,10,34.99
+Camping Tent,173,5,49.99
+Sleeping Bag,174,8,29.99
+Camp Stove,175,6,24.99
+Lantern,176,10,9.99
+Cooler,177,10,19.99
+Hiking Boots,178,8,39.99
+Backpack,179,12,19.99
+Compass,180,15,4.99
+Binoculars,181,10,14.99
+Bug Spray,182,10,3.99
+Marshmallows,183,20,1.49
+Chocolate,184,15,1.99
+Graham Crackers,185,10,2.29
+Hershey's Bars,186,12,1.79
+Peanut Butter Cups,187,10,2.49
+Hot Dogs,188,12,3.99
+Hamburger Buns,189,15,2.49
+Ketchup,190,10,1.29
+Mustard,191,8,1.19
+Relish,192,8,1.29
+Corn on the Cob,193,10,0.79
+Baked Beans,194,12,1.59
+Potato Salad,195,10,2.49
+Watermelon,196,5,4.99
+Cantaloupe,197,8,3.99
+Grilled Chicken,198,10,6.99
+Steak,199,8,9.99
+Corn Dogs,200,12,5.49
+French Fries,201,15,2.49
+Onion Rings,202,10,3.99
+Cheeseburger,203,10,5.99
+Hot Dog,204,15,3.49
+Veggie Burger,205,10,4.99
+Tofu,206,10,2.99
+Soy Milk,207,10,3.49
+Oatmeal,208,12,2.99
+Granola,209,8,3.99
+Honey,210,10,2.49
+Pancakes,211,12,1.99
+Waffles,212,10,2.29
+Syrup,213,10,1.99
+Lemons,214,12,0.79
+Limes,215,12,0.69
+Oranges,216,15,0.79
+Grapes,217,10,2.49
+Strawberries,218,12,2.99
+Blueberries,219,10,3.49
+Raspberries,220,8,3.99
+Blackberries,221,10,3.29
+Watermelon,222,5,4.99
+Cantaloupe,223,8,3.99
+Pineapple,224,5,2.99
+Mango,225,8,1.99
+Kiwi,226,10,0.99
+Peaches,227,12,1.49
+Nectarines,228,10,1.29
+Plums,229,10,1.19
+Avocado,230,10,1.79
+Cucumbers,231,15,0.79
+Bell Peppers,232,12,0.99
+Zucchini,233,10,0.89
+Broccoli,234,12,1.29
+Cauliflower,235,10,1.49
+Carrots,236,15,0.69
+Celery,237,12,0.89
+Lettuce,238,10,1.19
+Spinach,239,10,1.29
+Kale,240,8,1.49
+Tomatoes,241,15,0.79
+Onions,242,10,0.59
+Potatoes,243,15,0.69
+Sweet Potatoes,244,12,0.79
+Butternut Squash,245,10,1.29
+Acorn Squash,246,8,1.49
+Green Beans,247,10,1.19
+Asparagus,248,8,1.99
+Artichokes,249,8,2.49
+Eggplant,250,10,1.29
+Mushrooms,251,12,1.99
+Radishes,252,12,0.59
+Beets,253,10,0.79
+Cabbage,254,10,0.49
+Cilantro,255,10,0.99
+
