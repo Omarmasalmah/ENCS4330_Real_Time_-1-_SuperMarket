@@ -4,6 +4,15 @@ This project is a multi-processing simulation of a supermarket environment, focu
 
 [Screencast from 12-15-2023 08:38:38 PM.webm](https://github.com/Omarmasalmah/ENCS4330_Real_Time_-1-_SuperMarket/assets/112338255/5c3d94cc-dd08-4bf8-abed-aa81c510a007)
 
+## Features
+
+- Realtime
+- Queues
+- Shared Memories
+- Semaphores
+- Signals
+- OpenGL
+
 
 ## Languages And Tools:
 
